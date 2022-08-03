@@ -1,4 +1,4 @@
-package temperature;
+package temperature_converter;
 import java.util.*;
 
 public class main {
